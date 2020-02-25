@@ -1,0 +1,12 @@
+Every other letter will be capitalized starting at index 0 and placed in a list. google-->GoOgLe
+Once this is done, your input will be sorted Reverse Alphabetically. Where it will be printed to see. GoOgLe-->ogeOLG
+
+(Capitalize every other letter starting from index 0, Sort by reverse alphabetically)
+
+youtube >> YoUtUbE >> tobYUUE (not strong)
+amazon >> AmAzOn >> znmOAA (not strong)
+google >> GoOgLe >> ogeOLG (not strong)
+orange >> OrAnGe >> rneOGA (not strong)
+
+combining with numbers will make is stronger
+facebook2005 >> FaCeBoOk2005 >> okeaOFCB5200 (very strong)
